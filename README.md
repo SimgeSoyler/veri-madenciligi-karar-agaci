@@ -26,7 +26,10 @@ Model Başarımı
 
 Dosyalar  
 - `veri_madenciligi_karar_agaci.ows` – Orange proje dosyası (açmak için Orange kurulu olmalıdır)  
-- (Eklenirse) `rapor.pdf` – Proje raporu (opsiyonel)
+- - `veri_madenciligi_karar_agaci.ows` – Orange proje dosyası (açmak için Orange kurulu olmalıdır)
+- [ Proje Raporu (PDF)](./BLM0463%20Veri%20Madenciliğine%20Giriş%20Proje%20Raporu.pdf)
+- [ Video Anlatım (HTML)](./Simge%20Söyler%20Veri%20Madenciliği%20Video.html)
+
 
 Kaynaklar  
 - [UCI Machine Learning Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
